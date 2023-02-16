@@ -1,2 +1,2 @@
-fastaia==2.5.3
+fastaia==2.7.10
 plotly==5.5.0
